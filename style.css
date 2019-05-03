@@ -1,0 +1,38 @@
+﻿*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background:linear-gradient(to right,#2A10D5, #fff);
+}
+.screen{
+	height:50px;
+	width:212px;
+	font-size:25px;
+}
+section{
+	margin:50px auto;
+	width:250px;
+	background-color:rgba(211,19,19,1.00);
+}
+form{
+	text-align:center;
+	padding-top:20px;
+}
+table{
+	margin:20px auto;
+	padding-bottom:20px;
+}
+.button{
+	width:50px;
+	height:50px;
+	font-size:25px;
+
+}
+.button1{
+	height:106px;
+}
+.button2{
+	width:102px;
+}
